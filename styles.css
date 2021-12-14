@@ -1,0 +1,34 @@
+body {
+    padding-left: 5%;
+    padding-right: 5%;
+    }
+
+.logo {
+    border: 10px solid #96292980;
+    padding: 10px;
+    display:block;
+    margin:auto;
+}
+
+.box{
+    padding: 50px;
+    width: 80%;
+    background-color: #80808030;
+    margin: 0 auto;
+}
+
+.titles {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #96292980;
+    text-align: center;
+}
+
+.listClass, li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+}
+
+.mainList {
+    justify-content: center;
+    display: flex;
+}
